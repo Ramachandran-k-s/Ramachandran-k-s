@@ -41,12 +41,19 @@
 
 ## 🌐 Connect With Me
 
-📧 **Email:** ramachandranks2006@gmail.com
+<p align="left">
+<a href="mailto:ramachandranks2006@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-💼 LinkedIn: https://www.linkedin.com/in/ramachandran-k-s/
+<a href="https://www.linkedin.com/in/ramachandran-k-s/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-📷 Instagram: https://www.instagram.com/ramachandran.k.s_/
-
+<a href="https://www.instagram.com/ramachandran.k.s_/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+</p>
 ---
 
 ## ⚡ Fun Fact
